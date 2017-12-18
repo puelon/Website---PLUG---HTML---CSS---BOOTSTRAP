@@ -1,0 +1,75 @@
+#carouselExampleIndicators img{
+
+    height:500px;
+    width:70%;
+
+}
+
+.carousel-control-prev{
+	background:#000200;
+	height:500px;
+	width:45px;
+}
+.carousel-control-next{
+	background:#000200;
+	height:500px;
+	width:45px;
+}
+
+.btn-group-vertical .btn-primary{
+	width:250px;
+}
+
+.btn-dark{
+	
+	height:150px;
+
+}
+
+.btn-main
+{
+	background:#d63b20;
+	height:50px;
+}
+.btn-main:hover{
+	background:#e27663;
+
+}
+.badge-secondary{
+	
+	width:1000px;
+	height:55px;
+	background:#d63b20;
+
+
+}
+
+.jumbotron2{
+	
+	background:#272e3a;
+	height:600px 10px;
+
+
+}
+.card-body{
+	 box-shadow: 10px 10px 5px grey;
+	 transition:all 0.3s ease 0s;
+}
+.card-body:hover{
+	border: 2px solid red;
+    border-radius: 8px;
+    transform:scale(1.1, 1.1);
+
+}
+
+.card-body img{
+	
+	width:280px;
+	height:400px;
+}
+.badge2 {
+	
+	color:yellow;
+	width:500px;
+	height:250px;
+}

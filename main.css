@@ -1,0 +1,388 @@
+#jumbotron1.jumbotron {
+    padding: 2rem 1rem;
+    margin-bottom: 2rem;
+    background-color: #e8eaea;
+    border-radius: .3rem;
+    background-image: url('p.png');
+    min-height:200px;
+    margin-top:0px;
+    margin-bottom:8px;
+    background-repeat:no-repeat;
+    background-size:100% 100%;
+}
+
+.navbar{
+    
+    width: 100%;
+    height: 80px;
+    margin-bottom:0px;
+    margin-top: 0px;
+    border-radius: 25px;
+    background: #fff;
+}
+
+body{
+    background-color:white;
+}
+
+.carousel-inner{
+           
+            height:900px;
+            width:900px;
+      
+}
+.well > .well bs-component{
+    
+    background:green;
+}
+.navbar-right{
+    
+    text-align:right;
+}
+
+#panel1 .panel-default{
+    
+    background:black;
+}
+
+#navbar1:hover{
+
+    transition-property: all;
+    transition-duration: 0.2s;
+    transition-timing-function: ease-in-out;
+    transition-delay: 0s;
+    background-color:#d3d3d3;
+    font-family: Arial;
+    background-color: #ccc;
+
+
+}
+
+ .btn{  /*Shadow*/
+  -webkit-box-shadow: 0px 4px 0px rgba(0, 0, 0, 0.8);
+  -moz-box-shadow: 0px 4px 0px rgba(0, 0, 0, 0.8);
+  box-shadow: 0px 4px 0px rgba(0, 0, 0, 0.8);
+  
+  /*Gradient*/
+  background-image: -webkit-linear-gradient(bottom, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.4));
+  background-image: -moz-linear-gradient(bottom, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.4));
+  background-image: -o-linear-gradient(bottom, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.4));
+  background-image: -ms-linear-gradient(bottom, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.4));
+  background-image: linear-gradient(bottom, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.4));
+}
+
+.container-well{
+
+    
+    
+    height:245px;
+    background:white;
+    border-style: outset;
+    border-width: 1px;
+    width:100%;
+    
+
+}
+.formbtn .btn{
+  
+    padding-top: 10px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    border-bottom-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+    min-width: 150px;
+    text-align: center;
+    font-size: 12px;
+    color: #fff;
+    font-weight: 700;
+    display: inline-block;
+    margin-bottom: 15px;
+    display: inline;
+    cursor: pointer;
+}
+.carousel-control-next
+{
+    margin-top:0px;
+    margin-bottom:0px;
+    height:243px;
+    width:50px;
+    background:black;
+    color:black;
+}
+.carousel-control-prev
+{
+    height:243px;
+    width:50px;
+    background:black;
+    color:black;
+}
+#inputEmail:focus  {
+  
+  background-color: lightblue;
+}
+
+#inputPassword:focus
+{
+    background-color: lightblue;
+
+}
+
+#textArea:focus{
+  
+    background-color: lightblue;
+}
+
+#foto1 img{
+  
+    width: 300px;
+    height:400px;
+}
+#foto1 .btn-primary{
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    width:334px;
+    height:100px;
+}
+
+#foto1 .card-header:hover{
+  
+      background-color:gray;
+}
+#foto2 .card-header:hover{
+  
+      background-color:gray;
+}
+#foto3 .card-header:hover{
+  
+    background-color:gray;
+}
+#foto4 .card-header:hover{
+  
+    background-color:gray;
+}
+#foto5 .card-header:hover{
+  background-color:gray;
+}
+#foto1 .card-header{
+  
+  background-color:#4784ed;
+}
+#foto2 .card-header{
+  
+  background-color:#4784ed;
+}
+
+#foto3 .card-header{
+  
+  background-color:#4784ed;
+}
+
+#foto4 .card-header{
+  
+  background-color:#4784ed;
+}
+
+#foto5 .card-header{
+  
+  background-color:#4784ed;
+}
+
+
+#foto2 img{
+  
+    width: 335px;
+    height:400px;
+}
+#foto2 .btn-primary{
+  
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    width:337px;
+    height:100px;
+
+}
+#foto3 img{
+  
+    width: 337px;
+    height:400px;
+}
+#foto3 .btn-primary{
+  
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    width:337px;
+    height:100px;
+}
+#foto4 img{
+  
+    width: 337px;
+    height:400px;
+}
+#foto4 .btn-primary{
+  
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    width:337px;
+    height:100px;
+
+}
+
+#foto5 img{
+  
+    width: 337px;
+    height:400px;
+}
+#foto5 .btn-primary{
+  
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    width:337px;
+    height:100px;
+
+}
+
+
+
+
+#offer .badge-secondary{
+    
+    border:12px;
+    background:red;
+    transition:all 0.3s ease 0s;
+}
+#offer .badge-secondary:hover{
+    
+    transform:scale(1.5, 1.5);
+    cursor:pointer;
+
+
+
+}
+
+#card1 img{
+    
+    width:1800px;
+    height:300px;
+    margin-left:0px;
+}
+
+#card1 .card-cascade{
+    
+    height:300px;
+    width:800px;
+    margin-right:0px;
+    margin-left:75px;
+}
+#cardpaint1 .card-body{
+
+    height:50%;
+    background:red;
+    border: 2px solid red;
+    border-radius: 12px;
+}
+
+.carousel-item .img-fluid{
+    
+    margin-left:50px;
+} 
+
+#text01 p h3{
+    
+    text-align:justify;
+    margin-left:inter-word;
+}
+
+#cform1{
+    
+
+    margin-left:150px;
+}
+#product .card-cascade img{
+    
+    height:200px;
+    width:200px;
+}
+#product .card-cascade{
+    
+    width:336px;
+    height:100%;
+}
+#inverse1 .card-block img:hover{
+    
+    transform:scale(1.1);
+}
+#inverse1 .card-block img{
+    
+    transition:all 0.3s ease 0s;
+    width:100%;
+}
+
+#inverse1 .card-deck-wrapper img:hover{
+    transform:scale(1.1); 
+}
+   
+#inverse1 .card-deck-wrapper img{
+    
+    transition:all 0.3s ease 0s;
+    width:100%;
+}
+
+
+#inverse1 .card-inverse{
+    
+    width:336px;
+    height:400px;
+}
+
+#inverse1 .card img{
+    
+    height:350px;
+    width:336px;
+}
+
+#inverse1 .card-text{
+    
+    background:#e5e5e5;
+}
+#inverse1 .card{
+    
+    width:336px;
+}
+#inverse1 .badge-secondary{
+    
+    width:100%;
+    background:#f21ace;
+}
